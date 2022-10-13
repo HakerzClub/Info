@@ -10,5 +10,5 @@ OR YOU ARE LEARNING TO CODE (NEWCOMER IN CODING)
 
 THEN THIS IS IDEAL PLACE FOR YOU 
 
-Hackerz Club is a virtual club for coders and is initaited to provide community support to coders
+Hakerz Club is a virtual club for coders and is initaited to provide community support to coders
 Here we'll be working on group project as well as you can upload your personal projects
